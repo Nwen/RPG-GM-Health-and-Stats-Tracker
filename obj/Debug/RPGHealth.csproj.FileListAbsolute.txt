@@ -1,0 +1,14 @@
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Debug\RPGHealth.csprojAssemblyReference.cache
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Debug\RPGHealth.Form1.resources
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Debug\RPGHealth.csproj.GenerateResource.cache
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Debug\RPGHealth.csproj.CoreCompileInputs.cache
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Debug\RPGHealth.Form2.resources
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\bin\Debug\SUPERMOBATRON3000.exe.config
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\bin\Debug\SUPERMOBATRON3000.exe
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\bin\Debug\SUPERMOBATRON3000.pdb
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\bin\Debug\en\SUPERMOBATRON3000.resources.dll
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Debug\SUPERMOBATRON3000.Properties.Resources.resources
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Debug\RPGHealth.Form1.en.resources
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Debug\en\SUPERMOBATRON3000.resources.dll
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Debug\SUPERMOBATRON3000.exe
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Debug\SUPERMOBATRON3000.pdb

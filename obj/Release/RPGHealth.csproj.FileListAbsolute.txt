@@ -1,0 +1,13 @@
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Release\RPGHealth.Form1.resources
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Release\RPGHealth.Form2.resources
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Release\RPGHealth.Form1.en.resources
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Release\RPGHealth.csproj.GenerateResource.cache
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Release\SUPERMOBATRON3000.Properties.Resources.resources
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Release\RPGHealth.csprojAssemblyReference.cache
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\bin\Release\RPG GM Health and Stats Tracker.exe.config
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\bin\Release\RPG GM Health and Stats Tracker.exe
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\bin\Release\RPG GM Health and Stats Tracker.pdb
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\bin\Release\en\RPG GM Health and Stats Tracker.resources.dll
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Release\en\RPG GM Health and Stats Tracker.resources.dll
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Release\RPG GM Health and Stats Tracker.exe
+C:\Users\nwenn\source\repos\RPGHealth\RPGHealth\obj\Release\RPG GM Health and Stats Tracker.pdb
